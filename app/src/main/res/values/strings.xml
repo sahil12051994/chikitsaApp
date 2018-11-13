@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Chikitsa</string>
+    <string name="patient_register">Patient</string>
+    <string name="doctor_register">Doctor</string>
+    <string name="signin_button">SignIn</string>
+    <string name="copyright">Developed by CompBio Lab, IIT Roorkee</string>
+    <string name="statusOfPatientState">The complexity of this state</string>
+    <string name="whoGraphDescription">Graph showing the women who follow the WHO Guidelines during their pregnancy</string>
+    <string name="PieChartDesc">(Distribution of #patients on various factors)</string>
+    <string name="PirChartDesc">This is Pie Chart</string>
+    <string name="or_register_as">or Register as</string>
+    <string name="name">Name</string>
+    <string name="doctor">Doctor</string>
+    <string name="doctors_mobile">Doctors Mobile</string>
+    <string name="pregnancy_start">Pregnancy Start</string>
+    <string name="who_medication">WHO Medication</string>
+    <string name="add_data">Add Data</string>
+    <string name="who">WHO</string>
+    <string name="medication">Medication</string>
+    <string name="your_history">Your History</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="systole">Systolic BP</string>
+    <string name="diastole">Diastolic BP</string>
+    <string name="headache">Headache</string>
+    <string name="abdominal_pain">Abdominal Pain</string>
+    <string name="visual_problems">Visual Problems</string>
+    <string name="decreased_fetal_movements">Decreased Fetal Movements</string>
+    <string name="swelling_in_hands_or_face">Swelling in Hands or Face</string>
+    <string name="hypertension">Hypertension</string>
+    <string name="urine_albumin">Urine Albumin</string>
+    <string name="bleeding_per_vaginum">Bleeding per vaginum</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="in_beats_minute">in Beats/Minute</string>
+    <string name="body_weight">Body Weight</string>
+    <string name="in_kg">in Kg</string>
+    <string name="extra_comments_complications">Extra Comments / Complications</string>
+    <string name="something_you_want_doctor_to_know">Something you want doctor to know</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="send">Send</string>
+    <string name="period">Period</string>
+    <string name="starting_from">Starting from :</string>
+    <string name="to_be_taken_till">To be taken till :</string>
+    <string name="diabetese">Diabetes</string>
+    <string name="anaemia">Anaemia</string>
+    <string name="hiv">HIV</string>
+    <string name="ultrasound">Ultrasound</string>
+    <string name="tetnus">Tetnus</string>
+    <string name="urine_test">Urine Test</string>
+    <string name="update_my_data">Update My Data</string>
+    <string name="lmp">LMP</string>
+    <string name="edd">EDD</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBadggeNkbB7NwvBo_htgmzVEC2vmRJbNg</string>
+    <string-array name="medicine_freq">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+    <string name="title_activity_all_images_view" translatable="false">all_images_view</string>
+    <string name="address">Address</string>
+    <string name="age_in_years">Age (in years)</string>
+    <string name="last_mesntural_period">Last Menstrual Period</string>
+    <string name="date">Date</string>
+    <string name="some_extra_details_optional">Some extra details (Optional)</string>
+    <string name="history_of_high_blood_pressure_prior_to_pregnancy">History of high blood pressure prior to pregnancy</string>
+    <string name="a_history_of_preeclampsia">A history of preeclampsia</string>
+    <string name="having_a_mother_or_sister_who_had_preeclampsia">Having a mother or sister who had preeclampsia</string>
+    <string name="a_history_of_obesity">A history of obesity</string>
+    <string name="carrying_more_than_one_baby">Carrying more than one baby</string>
+    <string name="history_of_diabetes_kidney_disease_lupus_or_rheumatoid_arthritis">History of diabetes, kidney disease, lupus, or rheumatoid arthritis</string>
+    <string name="your_credentials">Your credentials</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="email_optional">Email (Optional)</string>
+    <string name="doctor_s_number">Doctor\'s Number</string>
+    <string name="doctor_s_name">Doctor\'s Name</string>
+    <string name="register">Register</string>
+    <string name="aboutdef1">Preeclampsia is a pregnancy complication characterized by high blood pressure and signs of damage to another organ system, most often the liver and kidneys. Preeclampsia usually begins after 20 weeks of pregnancy in women whose blood pressure had been normal. Left untreated, preeclampsia can lead to serious — even fatal — complications for both you and your baby. If you have preeclampsia, the most effective treatment is delivery of your baby. Even after delivering the baby, it can still take a while for you to get better.\n\nIf you\'re diagnosed with preeclampsia too early in your pregnancy to deliver your baby, you and your doctor face a challenging task. Your baby needs more time to mature, but you need to avoid putting yourself or your baby at risk of serious complications.\n\nRarely, preeclampsia develops after delivery of a baby, a condition known as postpartum preeclampsia.</string>
+    <string name="aboutdef2">Preeclampsia sometimes develops without any symptoms. High blood pressure may develop slowly, or it may have a sudden onset. Monitoring your blood pressure is an important part of prenatal care because the first sign of preeclampsia is commonly a rise in blood pressure.\n\nBlood pressure that exceeds 140/90 millimeters of mercury (mm Hg) or greater — documented on two occasions, at least four hours apart — is abnormal. Other signs and symptoms of preeclampsia may include:\n\nExcess protein in your urine (proteinuria) or additional signs of kidney problems Severe headaches Changes in vision, including temporary loss of vision, blurred vision or light sensitivity Upper abdominal pain, usually under your ribs on the right side Nausea or vomiting Decreased urine output Decreased levels of platelets in your blood (thrombocytopenia) Impaired liver function Shortness of breath, caused by fluid in your lungs Sudden weight gain and swelling (edema) — particularly in your face and hands — may occur with preeclampsia. But these also occur in many normal pregnancies, so they\'re not considered reliable signs of preeclampsia.</string>
+    <string name="aboutdef3">Make sure you attend your prenatal visits so that your care provider can monitor your blood pressure. Contact your doctor immediately or go to an emergency room if you have severe headaches, blurred vision or other visual disturbance, severe pain in your abdomen, or severe shortness of breath. Because headaches, nausea, and aches and pains are common pregnancy complaints, it\'s difficult to know when new symptoms are simply part of being pregnant and when they may indicate a serious problem — especially if it\'s your first pregnancy. If you\'re concerned about your symptoms, contact your doctor.</string>
+    <string name="aboutdef4">The exact cause of preeclampsia involves several factors. Experts believe it begins in the placenta — the organ that nourishes the fetus throughout pregnancy.\n\nEarly in pregnancy, new blood vessels develop and evolve to efficiently send blood to the placenta. In women with preeclampsia, these blood vessels don\'t seem to develop or function properly. They\'re narrower than normal blood vessels and react differently to hormonal signaling, which limits the amount of blood that can flow through them.\n\nCauses of this abnormal development may include: Insufficient blood flow to the uterus Damage to the blood vessels A problem with the immune system Certain genes</string>
+    <string name="aboutdef5">Preeclampsia is classified as one of four high blood pressure disorders that can occur during pregnancy. The other three are:\n\nGestational hypertension. Women with gestational hypertension have high blood pressure but no excess protein in their urine or other signs of organ damage. Some women with gestational hypertension eventually develop preeclampsia.\n\nChronic hypertension. Chronic hypertension is high blood pressure that was present before pregnancy or that occurs before 20 weeks of pregnancy. But because high blood pressure usually doesn\'t have symptoms, it may be hard to determine when it began.\n\nChronic hypertension with superimposed preeclampsia. This condition occurs in women who have been diagnosed with chronic high blood pressure before pregnancy, but then develop worsening high blood pressure and protein in the urine or other health complications during pregnancy.</string>
+    <string name="aboutdef6">Preeclampsia develops only as a complication of pregnancy. Risk factors include: History of preeclampsia. A personal or family history of preeclampsia significantly raises your risk of preeclampsia. Chronic hypertension. If you already have chronic hypertension, you have a higher risk of developing preeclampsia.\n\nFirst pregnancy. The risk of developing preeclampsia is highest during your first pregnancy.\n\nNew paternity. Each pregnancy with a new partner increases the risk of preeclampsia more than does a second or third pregnancy with the same partner.\n\nAge. The risk of preeclampsia is higher for very young pregnant women as well as pregnant women older than 40.\n\nRace. Black women have a higher risk of developing preeclampsia than do white women or women who are Asian or Hispanic.\n\nObesity. The risk of preeclampsia is higher if you\'re obese.\n\nMultiple pregnancy. Preeclampsia is more common in women who are carrying twins, triplets or other multiples. Interval between pregnancies.\n\nHaving babies less than two years or more than 10 years apart leads to a higher risk of preeclampsia.\n\nHistory of certain conditions. Having certain conditions before you become pregnant — such as chronic high blood pressure, migraines, type 1 or type 2 diabetes, kidney disease, a tendency to develop blood clots, or lupus — increases your risk of preeclampsia.\n\nIn vitro fertilization. Your risk of preeclampsia is increased if your baby was conceived with in vitro fertilization.</string>
+    <string name="aboutdef7">The more severe your preeclampsia and the earlier it occurs in your pregnancy, the greater the risks for you and your baby. Preeclampsia may require induced labor and delivery. Delivery by cesarean delivery (C-section) may be necessary if there are clinical or obstetric conditions that require a speedy delivery.\n\nOtherwise, your doctor may recommend a scheduled vaginal delivery. Your obstetric provider will talk with you about what type of delivery is right for your condition. Complications of preeclampsia may include: Fetal growth restriction. Preeclampsia affects the arteries carrying blood to the placenta. If the placenta doesn\'t get enough blood, your baby may receive inadequate blood and oxygen and fewer nutrients. This can lead to slow growth known as fetal growth restriction, low birth weight or preterm birth.\n\nPreterm birth. If you have preeclampsia with severe features, you may need to be delivered early, to save the life of you and your baby. Prematurity can lead to breathing and other problems for your baby. Your health care provider will help you understand when is the ideal time for your delivery.\n\nPlacental abruption. Preeclampsia increases your risk of placental abruption, a condition in which the placenta separates from the inner wall of your uterus before delivery. Severe abruption can cause heavy bleeding, which can be life-threatening for both you and your baby. HELLP syndrome. HELLP — which stands for hemolysis (the destruction of red blood cells), elevated liver enzymes and low platelet count — syndrome is a more severe form of preeclampsia, and can rapidly become life-threatening for both you and your baby. Symptoms of HELLP syndrome include nausea and vomiting, headache, and upper right abdominal pain.\n\nHELLP syndrome is particularly dangerous because it represents damage to several organ systems. On occasion, it may develop suddenly, even before high blood pressure is detected or it may develop without any symptoms at all. Eclampsia. When preeclampsia isn\'t controlled, eclampsia — which is essentially preeclampsia plus seizures — can develop.\n\nIt is very difficult to predict which patients will have preeclampsia that is severe enough to result in eclampsia. Often, there are no symptoms or warning signs to predict eclampsia. Because eclampsia can have serious consequences for both mom and baby, delivery becomes necessary, regardless of how far along the pregnancy is. Other organ damage.\n\nPreeclampsia may result in kidney, liver, lung, heart, or eyes, and may cause a stroke or other brain injury. The amount of injury to other organs depends on the severity of preeclampsia. Cardiovascular disease. Having preeclampsia may increase your risk of future heart and blood vessel (cardiovascular) disease. The risk is even greater if you\'ve had preeclampsia more than once or you\'ve had a preterm delivery. To minimize this risk, after delivery try to maintain your ideal weight, eat a variety of fruits and vegetables, exercise regularly, and don\'t smoke.</string>
+    <string name="change_doctor">Change doctor</string>
+    <string name="notifications">Notifications</string>
+    <string name="nearby_hospitals">Nearby Chemists</string>
+    <string name="about_preeclapmsia">About Preeclampsia</string>
+    <string name="logout">Logout</string>
+
+    <string name="disc1" translatable="false">Privacy Policy\n\nComputational Lab IIT-Roorkee built the SwasthGarbh app as a Free app. This SERVICE is provided by Computational Lab IIT-Roorkee at no cost and is intended for use as is.\n\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\n\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\n\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SwasthGarbh unless otherwise defined in this Privacy Policy.</string>
+    <string name="disc2" translatable="false">Information Collection and Use\n\nFor a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to blood pressure, weight and other medical information. The information that we request will be retained by us and used as described in this privacy policy.\n\nThe app does use third party services that may collect information used to identify you.\n\nLink to privacy policy of third party service providers used by the app\n\n[Google Play Services](https://www.google.com/policies/privacy/)\n[Firebase Analytics](https://firebase.google.com/policies/analytics)</string>
+    <string name="disc3" translatable="false">Log Data\n\nWe want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.</string>
+    <string name="disc4" translatable="false">Cookies\n\nCookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.\n\nThis Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</string>
+    <string name="disc5" translatable="false">Service Providers\n\nWe may employ third-party companies and individuals due to the following reasons:\n\nTo facilitate our Service\nTo provide the Service on our behalf\nTo perform Service-related services, or\nTo assist us in analyzing how our Service is used.\n\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</string>
+    <string name="disc6" translatable="false">Security\n\nWe value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</string>
+    <string name="disc7" translatable="false">Links to Other Sites\n\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</string>
+    <string name="disc8" translatable="false">Children’s Privacy\n\nThese Services do not address anyone under the age of 13\. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</string>
+    <string name="disc9" translatable="false">Changes to This Privacy Policy\n\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</string>
+
+</resources>

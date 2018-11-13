@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:paddingStart="5dp">
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:id="@+id/dateData">
+
+        <TextView
+            android:id="@+id/dateRow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="30th"
+            android:textColor="#EB1C23"
+            android:textSize="30sp"
+            tools:layout_editor_absoluteX="5dp" />
+
+        <TextView
+            android:id="@+id/monthRow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sept 2017"
+            android:textColor="#EB1C23"
+            android:textSize="10sp"
+            tools:layout_editor_absoluteX="13dp"
+            tools:layout_editor_absoluteY="53dp" />
+
+        <TextView
+            android:id="@+id/timeRow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="08:50 AM"
+            android:textColor="#EB1C23"
+            android:textSize="10sp"
+            tools:layout_editor_absoluteX="14dp"
+            tools:layout_editor_absoluteY="78dp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/sysValue"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            tools:text="Text 1" />
+
+        <TextView
+            android:id="@+id/dysValue"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            tools:text="Text 2" />
+
+        <TextView
+            android:id="@+id/urineAlValue"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            tools:text="Text 3" />
+
+        <TextView
+            android:id="@+id/weightVal"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            tools:text="Text 4" />
+
+        <TextView
+            android:id="@+id/bleedingVag"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Bleeding/Vag : 3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/otherDetailsPatient">
+
+        <TextView
+            android:id="@+id/headache"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Headache " />
+
+        <TextView
+            android:id="@+id/abdominalPain"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Abdominal Pain" />
+
+        <TextView
+            android:id="@+id/swelling"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Swelling" />
+
+        <TextView
+            android:id="@+id/decreasedMove"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Decreased Movements" />
+
+        <TextView
+            android:id="@+id/visualProb"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Visual Problems" />
+
+    </LinearLayout>
+
+
+
+
+
+</android.support.v7.widget.LinearLayoutCompat>

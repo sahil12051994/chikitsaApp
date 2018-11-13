@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914532852968",
+    "firebase_url": "https://chikitsa-859ec.firebaseio.com",
+    "project_id": "chikitsa-859ec",
+    "storage_bucket": "chikitsa-859ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914532852968:android:208c4a334a7e252e",
+        "android_client_info": {
+          "package_name": "com.chikitsa.root.chikitsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914532852968-i1j0qt7bb1ri5kav5hbg1rb1dve4stqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DgwZW6eRStguHeHaWuNDuwNn2oAPscI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
